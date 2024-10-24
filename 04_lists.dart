@@ -1,7 +1,7 @@
 void main() {
   /* LISTS */
   part_1();
-  //part_2();
+  part_2();
 }
 
 void part_1() {
